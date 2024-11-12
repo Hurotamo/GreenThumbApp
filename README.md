@@ -1,1 +1,2 @@
 # GreenThumbApp
+Decentralized Mobile Application.
